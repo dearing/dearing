@@ -1,4 +1,4 @@
-I mainly dabble with devops oriented things like config management and integrations so called devops toolchain.  Otherwise you'll find small little experiments and tools that I tend to archive here rather than running my own personal VCS at home.
+
 
 <!--
 **dearing/dearing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
