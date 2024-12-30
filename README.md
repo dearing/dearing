@@ -1,3 +1,1 @@
-# no results
-
-- devoops
+`no results`
