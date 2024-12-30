@@ -1,0 +1,27 @@
+:root {
+    --main-bg-color: black;
+    --main-fg-color: white;
+    --main-font: monospace;
+    --main-font-size: 2em;
+}
+
+
+body {
+    font-family: var(--main-font);
+    font-size: var(--main-font-size);
+    background-color: var(--main-bg-color);
+    color: var(--main-fg-color);
+    margin: 2em 2em auto;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: left;
+    color: rgb(27, 167, 167);
+}
+
+h2 {
+    font-size: 1.5em;
+    text-align: left;
+    color: rgb(25, 139, 139);
+}
